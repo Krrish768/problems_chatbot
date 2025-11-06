@@ -1,4 +1,4 @@
-# app/models.py
+# models.py
 from sqlalchemy import Column, Integer, Text, String, TIMESTAMP, func
 from .db import Base
 
